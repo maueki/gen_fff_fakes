@@ -1,0 +1,8 @@
+[package]
+name = "gen_fff_fakes"
+version = "0.1.0"
+authors = ["Ueki Masaru <masaru.ueki@itage.co.jp>"]
+build = "build.rs"
+
+[dependencies]
+log = "0.3.*"
